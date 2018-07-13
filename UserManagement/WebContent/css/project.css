@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+#wrapper
+{
+	width:80%;
+	height:500px;
+	background-color:#6de4b5;
+	margin:auto;
+	margin-top:100px;
+	border-radius:20px;
+	padding:10px;
+}
+body
+{
+	background-color:#6d8fe4;	
+}
+h1
+{
+	text-align:center;
+	font-size:26px;	
+}
+table
+{
+	width:900px;
+	font-size:18px;
+	background-color:orange;
+	border-radius:10px;
+	padding:10px;
+}
+tr
+{
+	height:40px;
+}
+a:link, a:visited
+{
+	text-decoration:none;
+	color:blue;
+}
+a:hover
+{
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
